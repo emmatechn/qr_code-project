@@ -5,8 +5,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
+} 
+ 
 .innerdiv {
     background-color: whitesmoke;
     width: 16.5%;
@@ -31,7 +31,7 @@ h3 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-transform: capitalize;
     text-align: center;
-    color: rgb(10, 10, 84);
+    color: #121212;
     font-size: 1.4em;
     font-family: 'Outfit', sans-serif;
     padding-bottom: 5px;
